@@ -23,3 +23,27 @@ strong
  ```
  -External styling = a file outside your html and you need to connect it to your html via link in the head section
  `link with href`
+ ## In-line styling
+ - we use `style` attribute
+ e.g `style="color:blue"`
+ style:attribute
+ color:css property
+ blue:value
+
+ ### roerties related to Font
+ -color
+ -font-size
+ -font-weight
+ -font-family
+
+ ### Padding and Marging
+ - Padding 
+ padding: 10px
+ - Marging
+ ### border
+ border: 10px red solid
+
+ ### CSS indentifier
+ - class (.)
+ - id (#)
+ - tag (tag)

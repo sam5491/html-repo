@@ -1,0 +1,17 @@
+#cssview {
+
+background-color: blue;color: white;border-radius: 15px;
+padding: 10px 20px;
+}
+
+#cssbody{
+    background-color: bisque;border: 2px red solid;
+}
+#cssimage
+{
+    width:200px; height:200px; border:5px red dotted; border-radius:60%; margin-left: 600px;padding: 5px 0; align-items:center;
+}
+#cssview:hover{
+    background-color: rgb(60, 60, 177);
+    cursor: pointer;
+}
